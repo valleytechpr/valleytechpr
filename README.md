@@ -9,4 +9,4 @@ I’m a Software Engineering and a LowCode Developer.
 <br>
 -Firebase, Supabase
 
-📲Im always open to collaborating on projects! feel free to connect with me: nperez@valleytechpr.com
+📲Im always open to collaborating on projects! Feel free to contact me: nperez@valleytechpr.com
