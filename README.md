@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Nicole from Puerto Rico 🇵🇷</h1>
-I’m a Software Engineer and a LowCode Developer.
+I’m a Software Engineer and LowCode Developer.
 
 <h2>My Stack:</h2>
 
