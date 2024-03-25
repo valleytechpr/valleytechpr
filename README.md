@@ -3,7 +3,7 @@ I’m a Software Engineer and LowCode Developer.
 
 <h2>My Stack:</h2>
 
--HTML, CSS, JS, ReactJS
+-HTML, CSS, JavaScript, ReactJS
 <br>
 -FlutterFlow, Softr, Glide, Wordpress, Webflow, Framer
 <br>
