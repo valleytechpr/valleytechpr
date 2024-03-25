@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Nicole from Puerto Rico 🇵🇷</h1>
 I’m a Software Engineer and LowCode Developer.
 
-<h2>My Stack:</h2>
+<h2>Stack:</h2>
 
 -HTML, CSS, JavaScript, ReactJS
 <br>
